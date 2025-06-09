@@ -40,8 +40,8 @@ Use relative paths for linking assets (e.g., ./assets/css/style.css).
 ```
 
 ## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/e508f85b-8175-41ed-87fc-ac6c3157a89b)
 
-> (Insert a screenshot here if needed)
 
 ## 🔗 How to Use
 
