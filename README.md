@@ -1,7 +1,3 @@
-Sure! Here's a simple, college-student-style README for your HTML project:
-
----
-
 # Business Insider Clone
 
 This is a basic HTML/CSS project that replicates a simplified version of the **Business Insider** website layout. It's meant to show off a responsive news layout using HTML and external CSS, with some placeholder content and images.
@@ -47,7 +43,7 @@ Use relative paths for linking assets (e.g., ./assets/css/style.css).
 
 1. Clone or download the project folder.
 2. Open `index.html` in a web browser.
-3. Explore the layout! Links don’t go anywhere yet except one (`redirected.html`) for demo purposes.
+3. Explore the layout! Links don’t go anywhere yet except one (`redirected.html`) for demo purposes, you can access it by clicking on the hero section(large image and the title below it ).
 
 ## 💡 Notes
 
