@@ -24,7 +24,7 @@ This is a basic HTML/CSS project that replicates a simplified version of the **B
 * **HTML5**
 * **CSS3**
 * **Font Awesome** (for icons)
-* `marquee` (used for the stock ticker – kind of old-school but works)
+* `marquee`
 
 ## 📁 Folder Structure
 
